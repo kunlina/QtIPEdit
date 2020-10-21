@@ -1,5 +1,4 @@
-#ifndef IPEDIT_H
-#define IPEDIT_H
+#pragma once
 
 #include <QWidget>
 #include <QLineEdit>
@@ -41,4 +40,3 @@ private:
     QLabel* m_dot3;
 };
 
-#endif // IPEDIT_H
